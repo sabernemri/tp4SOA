@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\INFOKOM\Desktop\tp4SOA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3418020049.index
+3785893952.index
+1500757112.index
+1571822070.index
+1293947893.index
+1710629170.index
+3667260741.index
